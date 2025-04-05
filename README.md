@@ -30,4 +30,3 @@
 
 ###
 <img src="https://raw.githubusercontent.com/Nickcasan9/Nickcasan9/output/snake.svg" alt="Snake animation" />
-###
